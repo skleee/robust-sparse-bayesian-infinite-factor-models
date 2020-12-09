@@ -6,5 +6,5 @@
 ## Contents
 
 ## References
-* Lee, J., & Lee, J. (2020). Robust Sparse Bayesian Infinite Factor Models. arXivnnnn:nnnnn.
+* Lee, J., & Lee, J. (2020). Robust Sparse Bayesian Infinite Factor Models. *arXiv preprint arXiv:2012.04315*.
 * Bhattacharya, A., & Dunson, D. B. (2011). Sparse Bayesian infinite factor models. *Biometrika*, 291-306.
